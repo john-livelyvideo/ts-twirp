@@ -32,7 +32,7 @@
     "prettier": "1.17.1",
     "ts-jest": "^24.0.2",
     "ts-node": "^7.0.1",
-    "ts-protoc-gen": "^0.8.0",
+    "ts-protoc-gen": "^0.15.0",
     "typescript": "^3.2.1"
   },
   "scripts": {
